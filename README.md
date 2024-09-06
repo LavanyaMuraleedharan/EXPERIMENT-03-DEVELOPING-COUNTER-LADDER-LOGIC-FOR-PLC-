@@ -63,8 +63,13 @@ Download the ladder logic program to the PLC if available and run it.
 Test the counters with the physical push buttons and observe the LEDs or other output devices.
 ### Outputs:
 Up Counter (CTU): The output LED or indicator should activate when the preset count (e.g., 10) is reached.
+![Iiot exp3 upcounter](https://github.com/user-attachments/assets/07f86a82-5a16-4095-8eb4-fcc15198dc1a)
+
 Down Counter (CTD): The output should activate when the count reaches zero.
+![Iiot exp3 downcounter](https://github.com/user-attachments/assets/6f8fe5d1-5c8a-4f2f-b9c9-fa3e5fbf9059)
+
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
+![WhatsApp Image 2024-09-06 at 09 21 55_9428a37c](https://github.com/user-attachments/assets/14974f29-f0d7-4120-a181-1b48f7d27667)
 
 ### Simulation Screenshots:
 (Add screenshots of the ladder logic and counter operations in the simulation software.)
